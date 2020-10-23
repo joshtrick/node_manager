@@ -1,0 +1,11 @@
+._*
+*.DS_Store
+*.DS_Store?
+.AppleDouble
+.LSOverride
+.DS_Store
+
+*.log
+*.pot
+*.pyc
+__pycache__/
